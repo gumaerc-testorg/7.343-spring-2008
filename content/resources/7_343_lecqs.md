@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bf169a23-7d5b-cf85-b3dc-827b87e869a5
 resourcetype: Document
 title: Sophisticated Survival Skills of Simple Microorganizms
 uid: 39fd5d70-3249-92fe-f577-5b5ba28dcf54
