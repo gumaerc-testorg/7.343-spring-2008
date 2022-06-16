@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides helpful links on microbes, hydrothermal vents,
+  chlorosis in cyanobacteria, bioremediation, and food and stress responses.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
