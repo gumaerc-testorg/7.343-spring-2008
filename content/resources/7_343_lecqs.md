@@ -6,6 +6,7 @@ file: /courses/7-343-sophisticated-survival-skills-of-simple-microorganisms-spri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sophisticated Survival Skills of Simple Microorganizms
 uid: 39fd5d70-3249-92fe-f577-5b5ba28dcf54
 ---
 A set of questions to be answered for each reading assignment of the course.
-
