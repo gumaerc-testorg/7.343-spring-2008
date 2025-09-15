@@ -2,7 +2,8 @@
 content_type: resource
 description: A set of questions to be answered for each reading assignment of the
   course.
-file: /courses/7-343-sophisticated-survival-skills-of-simple-microorganisms-spring-2008/39fd5d70324992fef5775b5ba28dcf54_7_343_lecqs.pdf
+file: /ol-ocw-studio-app/courses/7-343-sophisticated-survival-skills-of-simple-microorganisms-spring-2008/39fd5d70324992fef5775b5ba28dcf54_7_343_lecqs.pdf
+file_size: 80263
 file_type: application/pdf
 learning_resource_types:
 - Readings
